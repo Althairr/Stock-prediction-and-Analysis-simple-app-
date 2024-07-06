@@ -1,0 +1,17 @@
+# installable libraries for my projects
+- pip install streamlit 
+- pip install prophet 
+- pip install yfinance 
+- pip install plotly 
+- pip install streamlit-navigation-bar
+- pip install vaderSentiment
+- pip install requests
+- pip install python-dotenv
+- pip install pytest
+- pip install requests-mock
+
+# pip install streamlit prophet yfinance plotly 
+# pip install streamlit-navigation-bar
+# pip install vaderSentiment
+# pip install requests
+#pip install python-dotenv
